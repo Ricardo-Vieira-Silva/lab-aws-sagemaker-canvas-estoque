@@ -45,3 +45,13 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 ## 🤔 Dúvidas?
 
 Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
+
+## 📊 PROJETO ESTOQUE - RICARDO VIEIRA  - By DIO 📊 
+
+https://d-gstyf29sqqpn.studio.us-east-2.sagemaker.aws/canvas/default/dataPreparation/datasets
+
+![image](https://github.com/user-attachments/assets/1be8d8cd-3dba-47e2-9da2-75f57c3db99e)
+
+  Importante observar a variação de estoque que temos semanalmente, sendo o início da semana o maior nível apresentado.
+
+
